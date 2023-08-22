@@ -37,7 +37,5 @@ Technical University of Cluj-Napoca
 
 ## License
 
-Indicate the license under which your project is released. For example:
-
 This project is licensed under the [MIT License](LICENSE).
 
