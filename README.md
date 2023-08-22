@@ -4,8 +4,6 @@ University project involving the development of a front-end HTML page with a nav
 
 ## Screenshots
 
-Include screenshots or images related to your project here. You can either upload the images to your repository or provide URLs to the images hosted elsewhere. Use the following format to embed images:
-
 ![Screenshot 1](TUCN-PROJECT.png)
 
 ## Description
